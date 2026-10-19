@@ -58,7 +58,7 @@ int main()
     // copy objects
 
     Chai copiedChai = masalaChai; // copy constructor is called
-    cout << "==============Copied Chai Details==========" << endl;
+    cout << "==============Copied Chai Details==========" << "\n";
     copiedChai.displayChaiDetails();
 
     return 0;
