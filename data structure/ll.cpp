@@ -57,7 +57,7 @@ int main()
     list.push_back(1);
     list.push_back(2);
     list.push_back(3);
-    list.push_front(0);
+
     list.print();
 
     return 0;
