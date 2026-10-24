@@ -33,7 +33,7 @@ public:
 
     void displayChaiDetails()
     {
-        cout << "Tea Name: " << teaName << endl;
+        cout << "Tea Name\n: " << teaName << endl;
         cout << "Servings: " << servings << endl;
         cout << "Ingredients: ";
         for (const auto &ingredient : ingredients)
